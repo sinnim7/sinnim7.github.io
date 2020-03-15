@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+# Site
+name: '블로그 제목'
+description: '블로그 설명'
+meta_description: '블로그 메타테그'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: '/저장소이름/'
+google_analytics: ''
+disqus: '' #댓글 api 이용시 disqus-id 입력
+mailchimp-list: ''
